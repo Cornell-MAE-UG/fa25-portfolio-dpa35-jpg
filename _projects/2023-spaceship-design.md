@@ -1,13 +1,16 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: ENGRD 2210 Portfolio
+description: Heat Exchanger as part of a Refrigeration Sytem
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/Screenshot_23-11-2025_192020_www.bing.jpg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+A heat exchanger is a refrigeration system that transfers energy between fluids at different temperatures while not allowing them to mix. The most common heat exchangers are the Evaporator and the Condensor. For this project it will be focused on the counterflow condensor heat exchanger. High temperature refrigerant vapor from the compressor flows in one direction and the cooling air flows in the opposite direction. The condensor performs two important functions, desuperheating which reduces the superheated refrigerant vapor temperature. And condensation which rejects latent heat and then turns it into high pressure liquid. Then the refrigerant flows into the expansion valve. The purpose of this machine is to transfer thermal energy from the indoor air which is the refrigerant. Also to enable minimum energy input for to make an efficient phase change for heat absorbtion. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+![Photo of Mass, Energy, and Entropy Balance Equations and System Diagram]({{ "/assets/images/20251123_202755" | relative_url }}){: .inline-image-l}
+
+To improve this system we will analyze what increasing the evaporator surface area would do. First the heat transfer rate would increase due to a larger area inducing more convection and more refrigerant contact. Secondly the refrigerant air more closley follows air temperature. Improved heat transfer leads to the refrigerant reaching its desired superheat. Also a possible lower evaporating temperature which increases cooling capabilities. And lastly an improved coefficient of performance (COP), because the compressor workload dosen't have to increase and if the QL while the compressor work stays the same than the COP will increase. 
+
 

@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Douglas Antaky Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Douglas Antaky
+description              : Douglas Antaky - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
@@ -21,7 +21,7 @@ color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
-
+  
 # Outputting
 permalink: /:categories/:title/
 
